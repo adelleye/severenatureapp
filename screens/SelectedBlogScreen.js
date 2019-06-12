@@ -115,7 +115,7 @@ const HashtagContainer = styled.View`
   width: ${ScreenWidth - 40};
   margin-left: 20px;
   margin-top: 3px;
-  padding-bottom: 1px;
+  padding-bottom: 0px;
 `;
 //F39C12, 1d1d26
 const HashtagForBlogPost = styled.Text`
