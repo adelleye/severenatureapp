@@ -134,7 +134,7 @@ const Posts = [
     blogHashtag: "#listeningparty #brampton",
     blogsTitle: "Listening: Derin Falana",
     blogWriteUp:
-      "This week we hosted Brampton native Derin Falana at the Only One gallery in 5 Brock and he performed hit songs like YKWIA, The Low Down in a 3 hour set. Afterwards there was a pop up and after party at Rebel. Around the World & Back is a P+F tour that featured two stops in Canada both created in collaboration with Saintwoods & CNTRBND to uniquely combine all the mediums of the brand Photos by Tobi",
+      "This week we hosted Brampton native Derin Falana at the Only One gallery in 4 Brock and he performed hit songs like YKWIA, The Low Down in a 3 hour set. Afterwards there was a pop up and after party at Rebel. Around the World & Back is a P+F tour that featured two stops in Canada both created in collaboration with Saintwoods & CNTRBND to uniquely combine all the mediums of the brand Photos by Tobi",
     secondImage: require("../assets/Derin2.jpg"),
     thirdImage: require("../assets/Derin3.jpg")
   },
