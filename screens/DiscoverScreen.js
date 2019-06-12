@@ -157,7 +157,7 @@ const Posts = [
     blogHashtag: "#lookbook #nigeria #2018",
     blogsTitle: "Arcadia Fall 2018 Lookbook",
     blogWriteUp:
-      "Street-wear label Severe Nature will be hosting an audio-visual presentation; which will be pop-up + workshop on the December 28th and 29th titled “Arcadia”. This two day activation will also feature various outstanding artists alongside Grey93 Sergiopeperamos , Streetwear brands such as Home Delivery as well as an ultra-modern printing house Garmprint. View fulllook book in campaign page",
+      "Streetwear label Severe Nature will be hosting an audio-visual presentation; which will be pop-up + workshop on the December 28th and 29th titled “Arcadia”. This two day activation will also feature various outstanding artists alongside Grey93 Sergiopeperamos , Streetwear brands such as Home Delivery as well as an ultra-modern printing house Garmprint. View fulllook book in campaign page",
     secondImage: require("../assets/arcadialook2.jpg"),
     thirdImage: require("../assets/arcadialook4.jpg")
   }
