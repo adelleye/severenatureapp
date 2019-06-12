@@ -3,8 +3,7 @@ import {
   ScrollView,
   SafeAreaView,
   TouchableOpacity,
-  Button,
-  TextInput
+  Button
 } from "react-native";
 import { Dimensions } from "react-native";
 import styled from "styled-components";

@@ -5,8 +5,7 @@ import {
   TouchableOpacity,
   Dimensions,
   SafeAreaView,
-  RefreshControl,
-  Button
+  RefreshControl
 } from "react-native";
 import ScrollableTabView, {
   DefaultTabBar
